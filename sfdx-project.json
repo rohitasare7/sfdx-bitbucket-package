@@ -5,7 +5,7 @@
       "default": true
     },
     {
-      "path": "force-app\\main\\default",
+      "path": "force-app\\main\\default\\",
       "package": "EnterpriseOrg",
       "versionName": "ver 0.1",
       "versionNumber": "0.1.0.NEXT",
